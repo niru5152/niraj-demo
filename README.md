@@ -1,2 +1,4 @@
 # niraj-demo
-This is my first Git respository.Auther Niraj Bamdale
+This is my first Git respository.
+<br>
+Auther Niraj Bamdale
